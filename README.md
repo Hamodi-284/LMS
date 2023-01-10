@@ -1,3 +1,4 @@
 # LMS
-- teste ut ulike måter å sette opp branches på ig prøve å merge
-- Skrive teori underveis som kan hjelpe oss på eksamen
+- Teste ut ulike måter å sette opp branches på og prøve å merge på de.
+- Skrive teori underveis som kan hjelpe oss på eksamen.
+
